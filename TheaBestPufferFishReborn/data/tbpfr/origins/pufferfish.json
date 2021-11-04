@@ -7,11 +7,11 @@
 		"origins:aqua_affinity",
 		"origins:like_water",
 		"cpfr:poison_immune",
-		"cpfr:pufferfish_thorns",
-		"cpfr:pufferfish_attack",
-		"cpfr:pufferfish_air",
-		"cpfr:summon_pufferfish",
-		"cpfr:ocean_spawn"
+		"tbpfr:pufferfish_thorns",
+		"tbpfr:pufferfish_attack",
+		"tbpfr:pufferfish_air",
+		"tbpfr:summon_pufferfish",
+		"tbpfr:ocean_spawn"
 	],
 	"icon": "minecraft:pufferfish",
 	"order": 25,

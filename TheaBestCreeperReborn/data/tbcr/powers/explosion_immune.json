@@ -1,0 +1,19 @@
+{
+    "type": "origins:multiple",
+    "1": {
+        "type": "origins:invulnerability",
+        "damage_condition": {
+            "type": "origins:name",
+            "name": "explosion"
+        }
+    },
+    "2": {
+        "type": "origins:invulnerability",
+        "damage_condition": {
+            "type": "origins:name",
+            "name": "explosion.player"
+        }
+    },
+    "name": "Pyrotechnic",
+    "description": "Complete immunity to all types of explosives."
+}

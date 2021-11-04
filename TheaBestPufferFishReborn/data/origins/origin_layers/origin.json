@@ -2,7 +2,6 @@
 	"replace": false,
 	"origins":
 	[
-		"cpfr:creeper",
-		"cpfr:pufferfish"
+		"tbpfr:pufferfish"
 	]
 }
