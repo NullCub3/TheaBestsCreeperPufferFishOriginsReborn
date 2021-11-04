@@ -6,12 +6,12 @@
 		"origins:swim_speed",
 		"origins:aqua_affinity",
 		"origins:like_water",
-		"tb:poison_immune",
-		"tb:pufferfish_thorns",
-		"tb:pufferfish_attack",
-		"tb:pufferfish_air",
-		"tb:summon_pufferfish",
-		"tb:ocean_spawn"
+		"cpfr:poison_immune",
+		"cpfr:pufferfish_thorns",
+		"cpfr:pufferfish_attack",
+		"cpfr:pufferfish_air",
+		"cpfr:summon_pufferfish",
+		"cpfr:ocean_spawn"
 	],
 	"icon": "minecraft:pufferfish",
 	"order": 25,

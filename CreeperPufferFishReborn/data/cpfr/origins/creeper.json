@@ -1,9 +1,9 @@
 {
 	"powers":
 	[
-		"tb:creeper_skin",
-		"tb:explosive_ability",	
-		"tb:explosive_body"
+		"cpfr:creeper_skin",
+		"cpfr:explosive_ability",	
+		"cpfr:explosive_body"
 	],
 	"icon": "minecraft:gunpowder",
 	"order": 25,
