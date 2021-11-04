@@ -1,10 +1,17 @@
 {
 	"type": "origins:active_self",
-	"cooldown": 400,
+	"cooldown": 200,
 	"entity_action": 
 	{	
-		"type": "origins:spawn_entity",
-		"entity_type": "tnt"
+		"type":"origins:multiple",
+		"1": {
+			"type": "origins:execute_command",
+			"command": "execute at @s run summon minecraft:tnt ~ ~1.5 ~"
+		},
+		"2": {
+			"type": "origins:exhaust",
+			"amount": 0.4
+		}
 	},
 	"key": "primary",
 	"hud_render":
@@ -13,6 +20,6 @@
 		"sprite_location": "origins:textures/gui/resource_bar.png",
 		"bar_index": 0
 	},
-	"name": "Explode",
-	"description": "You can cause an explosion at your location."
+	"name": "Boom Boom Boom",
+	"description": "You can spontaneously explode"
 }

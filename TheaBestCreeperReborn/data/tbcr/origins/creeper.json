@@ -2,7 +2,8 @@
 	"powers":
 	[
 		"tbcr:explosive_ability",	
-		"tbcr:explosion_immune"
+		"tbcr:explosion_immune",
+		"tbcr:fragile"
 	],
 	"icon": "minecraft:gunpowder",
 	"order": 25,

@@ -1,0 +1,11 @@
+{
+    "type":"origins:attribute",
+    "modifier": {
+        "name": "Fragility",
+        "attribute": "minecraft:generic.max_health",
+        "value": -6,
+        "operation": "addition"
+    },
+    "name": "Fragility",
+    "description": "Being explosive takes a lot out of you. You start with 3 fewer hearts."
+}
