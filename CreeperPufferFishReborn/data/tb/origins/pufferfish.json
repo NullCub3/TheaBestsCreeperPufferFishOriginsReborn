@@ -1,0 +1,21 @@
+{
+	"powers":
+	[
+		"origins:water_breathing",
+		"origins:water_vision",
+		"origins:swim_speed",
+		"origins:aqua_affinity",
+		"origins:like_water",
+		"tb:poison_immune",
+		"tb:pufferfish_thorns",
+		"tb:pufferfish_attack",
+		"tb:pufferfish_air",
+		"tb:summon_pufferfish",
+		"tb:ocean_spawn"
+	],
+	"icon": "minecraft:pufferfish",
+	"order": 25,
+	"impact": 2,
+	"name": "Pufferfish",
+	"description": "You share some traits with pufferfish."
+}

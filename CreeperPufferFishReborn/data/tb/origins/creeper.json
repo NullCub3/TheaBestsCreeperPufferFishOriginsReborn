@@ -1,0 +1,13 @@
+{
+	"powers":
+	[
+		"tb:creeper_skin",
+		"tb:explosive_ability",	
+		"tb:explosive_body"
+	],
+	"icon": "minecraft:gunpowder",
+	"order": 25,
+	"impact": 2,
+	"name": "Creeperkin",
+	"description": "Green and loves explosions."
+}

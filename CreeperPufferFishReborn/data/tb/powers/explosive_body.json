@@ -1,0 +1,16 @@
+{
+	"type": "origins:self_action_when_hit",
+	"cooldown": 20,
+	"entity_action": 
+	{
+		"type": "origins:chance",
+		"action":
+		{		
+			"type": "origins:spawn_entity",
+			"entity_type": "tnt"
+		},
+		"chance": 0.2
+	},
+	"name": "Defensive Explosion",
+	"description": "You sometimes cause explosions when damaged."
+}

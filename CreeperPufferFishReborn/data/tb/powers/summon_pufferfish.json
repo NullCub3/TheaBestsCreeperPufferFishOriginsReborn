@@ -1,0 +1,16 @@
+{
+	"type": "origins:active_self",
+	"cooldown": 20,
+	"key": "primary",
+	"entity_action":
+	{
+		"type": "origins:spawn_entity",
+		"entity_type": "minecraft:pufferfish"
+	},
+	"name": "Call Friends",
+	"description": "You can summon your fellow pufferfish.",
+	"hud_render":
+	{
+		"should_render": false
+	}
+}

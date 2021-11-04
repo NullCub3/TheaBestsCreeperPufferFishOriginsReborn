@@ -1,0 +1,18 @@
+{
+	"type": "origins:active_self",
+	"cooldown": 400,
+	"entity_action": 
+	{	
+		"type": "origins:spawn_entity",
+		"entity_type": "tnt"
+	},
+	"key": "primary",
+	"hud_render":
+	{
+		"should_render": true,
+		"sprite_location": "origins:textures/gui/resource_bar.png",
+		"bar_index": 0
+	},
+	"name": "Explode",
+	"description": "You can cause an explosion at your location."
+}

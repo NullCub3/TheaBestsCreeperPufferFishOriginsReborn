@@ -1,0 +1,36 @@
+{
+	"type": "origins:target_action_on_hit",
+	"cooldown": 10,
+	"entity_action":
+	{
+		"type": "origins:apply_effect",
+		"effects":
+		[
+			{
+				"effect": "minecraft:poison",
+				"duration": 300,
+				"amplifier": 0,
+				"is_ambient": false,
+				"show_particles": true,
+				"show_icon": true
+			},
+			{
+				"effect": "minecraft:hunger",
+				"duration": 200,
+				"amplifier": 0,
+				"is_ambient": false,
+				"show_particles": true,
+				"show_icon": true
+			},
+			{
+				"effect": "minecraft:nausea",
+				"duration": 100,
+				"amplifier": 0,
+				"is_ambient": false,
+				"show_particles": true,
+				"show_icon": true
+			}
+		]
+	},
+	"hidden": true
+}
