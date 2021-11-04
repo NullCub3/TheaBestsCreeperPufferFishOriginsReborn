@@ -1,0 +1,8 @@
+{
+    "type": "origins:prevent_item_use",
+    "item_condition": {
+        "type": "origins:meat"
+    },
+    "name":"Weak Stomach",
+    "description": "You drank too much nitroglycerine, so now you can't eat meat"
+}

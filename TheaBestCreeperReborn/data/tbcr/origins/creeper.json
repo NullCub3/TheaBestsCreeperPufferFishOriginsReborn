@@ -1,9 +1,10 @@
 {
 	"powers":
 	[
-		"tbcr:explosive_ability",	
 		"tbcr:explosion_immune",
-		"tbcr:fragile"
+		"tbcr:explosive_ability",	
+		"tbcr:fragile",
+		"tbcr:weak_stomach"
 	],
 	"icon": "minecraft:gunpowder",
 	"order": 25,

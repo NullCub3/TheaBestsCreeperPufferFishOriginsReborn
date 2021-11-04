@@ -1,17 +1,15 @@
 {
 	"type": "origins:active_self",
 	"cooldown": 200,
+	"food_modifier":
+	{
+		"operation": "addition",
+		"value": -1
+	},
 	"entity_action": 
 	{	
-		"type":"origins:multiple",
-		"1": {
-			"type": "origins:execute_command",
-			"command": "execute at @s run summon minecraft:tnt ~ ~1.5 ~"
-		},
-		"2": {
-			"type": "origins:exhaust",
-			"amount": 0.4
-		}
+		"type": "origins:execute_command",
+		"command": "execute at @s run summon minecraft:tnt ~ ~1.5 ~"
 	},
 	"key": "primary",
 	"hud_render":
