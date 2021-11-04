@@ -1,4 +1,4 @@
-# TheaBest's Creeperkin and PufferFish Origins - Reborn!
+# Theabest's Creeperkin and PufferFish Origins - Reborn!
 
 All of the pufferfish code and some of the creeper code has been blatently stolen from Theabest#3667 in the official Origins Discord Server. This datapack aims to add flexibility by splitting the Creeperkin and Pufferfish origin up, and to make it so that the Creeperkin origin doesn't suck. There is some unused code in the Creeperkin datapack that I'm just leaving because I barely know what I'm doing. If you want to add back in the coloration of the player, be my guest, it's not my code. You can just add that thing back into the main creeper.json file, and happy days!
 
