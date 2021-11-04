@@ -9,3 +9,26 @@ https://github.com/NullCub3/TheaBestsCreeperPufferFishOriginsReborn/releases
 If the original mod author wants me to take this down, please contact me via some means and I shall promptly remove this from the public eye. Better to ask for forgiveness than permission amiright?
 
 I'm being very sarcastic here, just FYI.
+
+# Creeperkin
+**Pros:**
++ Friend of the Boom: You are immune to any and all explosions.
++ Boom Boom Boom: You can choose to spontaneously explode. Has a cooldown, and breaks blocks, so be careful.
+
+**Cons:**
+- Fragile: Being explosive takes a lot out of you, you start off with 3 less hearts.
+- Weak Stomach: You drank too much of Vinny's nitroglycerine, so now you can't eat meat.
+
+# PufferFish
+**Pros:**
++ You are able to breathe underwater
++ You can swim faster
++ You are immune to the poison status effect
++ You have a chance of inflicting poison in combat
+
+**Passive:**
+- You can summon a pufferfish
+- You spawn in the ocean
+
+**Con:**
+- You can not breathe on land (eating a pufferfish will give you more air on land)
